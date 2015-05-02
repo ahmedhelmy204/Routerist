@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Routerist.Web", "Routerist.Web\Routerist.Web.csproj", "{2BBBADA5-50C2-452B-BE9E-F8A0B898DF58}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Routerist.Admin", "Routerist.Admin\Routerist.Admin.csproj", "{831E34EA-0E2C-4F5F-BF63-F533CBD1F8E1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +19,16 @@ Global
 		{2BBBADA5-50C2-452B-BE9E-F8A0B898DF58}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BBBADA5-50C2-452B-BE9E-F8A0B898DF58}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BBBADA5-50C2-452B-BE9E-F8A0B898DF58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831E34EA-0E2C-4F5F-BF63-F533CBD1F8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831E34EA-0E2C-4F5F-BF63-F533CBD1F8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831E34EA-0E2C-4F5F-BF63-F533CBD1F8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831E34EA-0E2C-4F5F-BF63-F533CBD1F8E1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2BBBADA5-50C2-452B-BE9E-F8A0B898DF58} = {DB9F8C4D-705B-4ED7-A595-2EA70E7C9BCC}
+		{831E34EA-0E2C-4F5F-BF63-F533CBD1F8E1} = {DB9F8C4D-705B-4ED7-A595-2EA70E7C9BCC}
 	EndGlobalSection
 EndGlobal
